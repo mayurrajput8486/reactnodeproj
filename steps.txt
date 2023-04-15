@@ -1,0 +1,9 @@
+1. npx create-react-app my-app
+
+2. cd myreactapp
+
+3. npm start
+
+4. npm install --save express mysql body-parser
+
+5. npm install react-router-dom
